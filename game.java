@@ -58,7 +58,7 @@ public class game extends JPanel{
 	protected BufferedImage image = null;
 
 	protected int life = 2;
-
+    
 	@Override
 	public void paintComponent(Graphics g) {
 
